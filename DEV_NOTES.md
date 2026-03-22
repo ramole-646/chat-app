@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Tested build on clean environment
 - Updated .gitignore to exclude build artifacts
+
+## 2026-03-22
+- Added basic usage examples to README
+- Added healthcheck endpoint stub
