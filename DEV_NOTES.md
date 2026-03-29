@@ -27,3 +27,6 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Updated .gitignore to exclude build artifacts
 - Consolidated duplicate helper functions
+
+## 2026-03-30
+- Documented config options
