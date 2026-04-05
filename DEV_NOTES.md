@@ -47,3 +47,6 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Wrote notes on upcoming feature design
 - Removed unused variable declarations
+
+## 2026-04-06
+- Consolidated duplicate helper functions
